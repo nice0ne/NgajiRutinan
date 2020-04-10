@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.cakmin.ngajirutinan"
+    },
+    "cordova-plugin-backbutton": {
+      "PACKAGE_NAME": "com.cakmin.ngajirutinan"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.cakmin.ngajirutinan"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.cakmin.ngajirutinan"
+    },
+    "cordova-plugin-ignore-lint-translation": {
+      "PACKAGE_NAME": "com.cakmin.ngajirutinan"
+    },
+    "cordova-plugin-cleartext": {
+      "PACKAGE_NAME": "com.cakmin.ngajirutinan"
+    }
+  },
+  "dependent_plugins": {}
+}
